@@ -1,5 +1,3 @@
-# tes18
-Percobaan
 <html>
   <body>
     <h1>Hai Cantik!</h1>
